@@ -87,6 +87,16 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Adding a new article to the page. Hooray!',
+    date: 'April 13th, 2022',
+    firstParagraph: `dood dood dood ododoodo`,
+
+    secondParagraph: `daadaaa daa dad dadadaaadd+3
+    a0.+..`,
+
+    thirdParagraph: `dumdumdumdumdumdumdumd udmdudmdumd`
   }
 ];
 
